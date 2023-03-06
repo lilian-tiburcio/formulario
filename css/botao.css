@@ -18,14 +18,26 @@
     background-color: unset;
 }
 
-.botao-simples--adicionar {
-    color: var(--cor-primaria);
+.botao {
+    display: block;
+    background-color: var(--cor-primaria);
+    border-radius: 7px;
+    width: 100%;
+    margin-top: 1rem;
+    max-width: 10rem;
+    padding: 1.125rem;
+    box-sizing: border-box;
+    color: var(--cor-contraste-claro);
+    font-size: var(--fonte-tamanho-botao);
+    align-self: center;
+    text-align: center;
 }
 
-.botao-simples--excluir {
-    color: var(--cor-aviso);
+.botao:hover{
+    cursor: pointer;
 }
 
-.botao-simples--editar {
-    color: var(--cor-sucesso);
+.botao-simples {
+    border: none;
+    background-color: unset;
 }
