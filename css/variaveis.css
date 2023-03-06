@@ -1,0 +1,24 @@
+:root {
+    --fonte-familia-corpo: 'Poppins', sans-serif;
+    --fonte-familia-logo: 'Montserrat', sans-serif;
+
+    --fonte-peso-input: 200;
+
+    --fonte-tamanho-logo: 32px;
+    --fonte-tamanho-cartao-titulo: 28px;
+    --fonte-tamanho-input-label: 20px;
+    --fonte-tamanho-botao: 15px;
+    --fonte-tamanho-formulario-fieldset: 20px;
+    
+
+    
+    --cor-primaria: #733ef0;
+    --cor-secundaria: #efecf3;
+    --cor-contraste-escuro: #4D4D4D;
+    --cor-contraste-claro: #fff;
+    --cor-aviso: #df2525;
+    --cor-sucesso: #047900;
+    --cor-transparencia: #4d4d4d33;
+
+    --sombra: 0 10px 15px #9f4bff8a;
+}
