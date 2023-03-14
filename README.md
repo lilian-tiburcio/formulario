@@ -9,6 +9,6 @@
 <h2>:hammer:Funcionalidades</h2>
 <p>O projeto funciona como um modelo de casdastro de dados para em lojas virtuais.</p>
 
-<h1>Onde acessar?</h1>
+<h2>Onde acessar?</h2>
 
 Link do projeto: https://lilian-tiburcio.github.io/listadetarefas/
