@@ -4,7 +4,7 @@
 
 <h1>Descrição do Projeto</h1>
 
-<p> O projeto Formulário de Cadastrado foi feito usando HTML,CSS e JavaScript. Aqui também aplicamos uma mask para CPF e CEP, utilizando JQuery.</p>
+<p> O projeto Formulário de Cadastrado foi feito usando HTML,CSS e JavaScript. Foi o segundo projeto realizado após a formação em JavaScript, e o primeiro aplicando os recusos JQuery após o curos. Aqui também aplicamos uma mask para CPF e CEP, utilizando JQuery.</p>
 
 <h2>:hammer:Funcionalidades</h2>
 <p>O projeto funciona como um modelo de casdastro de dados para em lojas virtuais.</p>
